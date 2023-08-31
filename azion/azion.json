@@ -1,0 +1,15 @@
+{
+  "application": {
+    "id": 1693483998,
+    "name": "ChatGPTPluginGithubSearch"
+  },
+  "domain": {
+    "id": 1693497625,
+    "name": "ChatGPTPluginGithubSearch",
+    "url": "u9gwqfuhs7.map.azionedge.net"
+  },
+  "function": {
+    "id": 10381,
+    "name": "ChatGPTPluginGithubSearch"
+  }
+}
